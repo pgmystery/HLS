@@ -1,7 +1,7 @@
 from pathlib import Path
 from typing import Optional
 
-from HLS.config.hls_stream import HLSStreamOptions
+from HLS.config import HLSStreamOptions
 
 
 class HLSStream:
